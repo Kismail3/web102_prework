@@ -23,13 +23,23 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Here's a comprehensive walkthrough demonstrating all the implemented features:
 
+Interactive Demo: 
 
-[Video Walkthrough](https://www.loom.com/share/6f00aedefbfe49fa8fccf36cd090ba27?sid=06c6ffda-52ca-4f0e-805a-10298963c352).
+![Video Walkthrough](./Video%20Walkthrough.gif)
 
+This walkthrough demonstrates:
+
+- The dynamic stats dashboard displaying total contributions, funds raised, and game count
+- Featured top-funded games with detailed funding information
+- Interactive filtering system that allows users to view funded, unfunded, or all games
+- Responsive game cards with complete project information
+
+You can also click on the Video Walkthrough link [Video Walkthrough](https://www.loom.com/share/6f00aedefbfe49fa8fccf36cd090ba27?sid=06c6ffda-52ca-4f0e-805a-10298963c352) to view the full video presentation showcasing the Sea Monster Crowdfunding platform's functionality
+
+GIF created with [Loom](https://www.loom.com/) and LICEcap.
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with [Loom](https://www.loom.com/). 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows

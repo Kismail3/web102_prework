@@ -17,9 +17,19 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ x] Added responsive design with proper spacing for better mobile viewing.
-* [ x] Implemented hover effects on game cards to improve user experience.
-* [ x] Used animation effects for transitions between filtered game views.
+* [x] Added responsive design with proper spacing for better mobile viewing.
+* [x] Implemented hover effects on game cards to improve user experience.
+* [x] Used animation effects for transitions between filtered game views.
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented features:
+
+<a href="https://www.loom.com/share/6f00aedefbfe49fa8fccf36cd090ba27?sid=65a7ec65-1a18-44ec-a82d-835c5e9ef3e9">
+  <img src="https://cdn.loom.com/sessions/thumbnails/6f00aedefbfe49fa8fccf36cd090ba27-with-play.gif" alt="Video Walkthrough">
+</a>
+
+GIF created with [Loom](https://www.loom.com/)
 
 ## Video Walkthrough
 

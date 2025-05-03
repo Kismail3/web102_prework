@@ -25,20 +25,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<a href="https://www.loom.com/share/6f00aedefbfe49fa8fccf36cd090ba27?sid=65a7ec65-1a18-44ec-a82d-835c5e9ef3e9">
-  <img src="https://cdn.loom.com/sessions/thumbnails/6f00aedefbfe49fa8fccf36cd090ba27-with-play.gif" alt="Video Walkthrough">
-</a>
 
-GIF created with [Loom](https://www.loom.com/)
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented features:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<a href="https://www.loom.com/share/6f00aedefbfe49fa8fccf36cd090ba27?sid=65a7ec65-1a18-44ec-a82d-835c5e9ef3e9">
-  <img src="https://cdn.loom.com/sessions/thumbnails/6f00aedefbfe49fa8fccf36cd090ba27-with-play.gif" alt="Video Walkthrough">
-</a>
+[Video Walkthrough](https://www.loom.com/share/6f00aedefbfe49fa8fccf36cd090ba27?sid=06c6ffda-52ca-4f0e-805a-10298963c352).
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Loom](https://www.loom.com/). 

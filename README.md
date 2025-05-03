@@ -10,25 +10,28 @@ Time spent: **20** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] Added responsive design with proper spacing for better mobile viewing.
-* [ ] Implemented hover effects on game cards to improve user experience.
-* [ ] Used animation effects for transitions between filtered game views.
+* [ x] Added responsive design with proper spacing for better mobile viewing.
+* [ x] Implemented hover effects on game cards to improve user experience.
+* [ x] Used animation effects for transitions between filtered game views.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href="https://www.loom.com/share/6f00aedefbfe49fa8fccf36cd090ba27?sid=65a7ec65-1a18-44ec-a82d-835c5e9ef3e9">
+  <img src="https://cdn.loom.com/sessions/thumbnails/6f00aedefbfe49fa8fccf36cd090ba27-with-play.gif" alt="Video Walkthrough">
+</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Loom. 
+GIF created with [Loom](https://www.loom.com/). 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
